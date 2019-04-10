@@ -1,0 +1,6 @@
+classes= 10
+train  = Noruway.txt
+valid  = Noruway.txt
+names = Noruway.names
+backup = backup/
+
